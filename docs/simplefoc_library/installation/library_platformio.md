@@ -70,7 +70,7 @@ You can now add the SimpleFOC library to the project:
 3. Click on the library
 
 <img src="extras/Images/platformio_screenshot6.png" class="width80">
-1. Click on "Add Library" to display the "Add Library" wizard
+1. Click on "Add to Project" to display the "Add project dependency" wizard
 
 <img src="extras/Images/platformio_screenshot7.png" class="width50">
 1. Choose your project from the drop-down
